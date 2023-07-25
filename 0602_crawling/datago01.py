@@ -16,3 +16,5 @@ jsonObj = json.loads(jsonString)
 for item in jsonObj['items']['item']:
     print(item)
     #print(item['divCd1Nm'])
+
+    
